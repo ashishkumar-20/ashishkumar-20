@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish kumar</h1>
+<h1 align="center">Hi 👋, I'm ASHISH KUMAR</h1>
 <h3 align="center">Discovering the world of web Development.</h3>
 
 - 🌱 I’m currently pursuing **my B.Tech degree @ITER, SOAU**
