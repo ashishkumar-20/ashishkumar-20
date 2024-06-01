@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish kumar</h1>
 <h3 align="center">Discovering the world of web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar-20&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar-20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-20" alt="ashishkumar-20" /></a> </p>
-
 - 🌱 I’m currently pursuing **my B.Tech degree @ITER, SOAU**
 
 - 📫 How to reach me **ashishkrroy06@gmail.com**
@@ -24,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkumar-20&show_icons=true&locale=en" alt="ashishkumar-20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar-20&" alt="ashishkumar-20" /></p>
+
